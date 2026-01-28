@@ -1,6 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/ab24a9fe-5fe9-4518-9fcc-3f1f28cbdce8)
 ![Image](https://github.com/user-attachments/assets/321a5440-a7f0-4828-b4d0-2a6119b5404a)
 ![Image](https://github.com/user-attachments/assets/d5721f36-c5e0-4ecf-bc16-e05c79985de4)
+![Image](https://github.com/user-attachments/assets/c52c7aab-a736-4a57-94f5-45b20806ad06)
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/marcyvee.bsky.social)
