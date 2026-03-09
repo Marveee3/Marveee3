@@ -1,3 +1,6 @@
+<video src="https://github.com/user-attachments/assets/15822b3e-f478-4442-a5ca-e9a9b2df4356" controls>
+  Ваш браузер не поддерживает видео.
+</video>
 <details open>
 <summary>GIFs</summary>
 <img src="https://github.com/user-attachments/assets/ab24a9fe-5fe9-4518-9fcc-3f1f28cbdce8" alt="GIF1" width="400"><img src="https://github.com/user-attachments/assets/321a5440-a7f0-4828-b4d0-2a6119b5404a" alt="GIF2" width="400"><br>
